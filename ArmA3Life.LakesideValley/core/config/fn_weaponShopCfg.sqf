@@ -325,7 +325,7 @@ switch(_shop) do
 											["A3L_RedDot",nil,2000],
 											["A3L_CCO",nil,2000],
 
-											//M16
+											//M16 Shops
                                             ["RH_M16A4","M16 Burst",35000],
                                             ["RH_30Rnd_556x45_Mk262","5.56 30rnd",120],
                                             ["RH_compM2","Rifle Aimpoint",2250],
